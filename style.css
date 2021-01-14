@@ -1,3 +1,52 @@
 .container{
     padding: 0;
+
+}
+
+.card{
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 2.5%;
+    border-bottom-right-radius: 2.5%;
+}
+
+.stay-touch{
+    border-radius: 10px;
+}
+
+.carousel-color{
+    background-color: #FEEAE9;
+    /* border-radius: 20px; */
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.slider{
+    border-radius: 20px;
+}
+
+.panda-card{
+    border: 0;
+}
+
+.panda-footer{
+    background: none;
+    border: none;
+    padding-bottom: 30px;
+}
+
+
+.stay-touch{
+    background-color: #FEEAE9;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.category-padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
